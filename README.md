@@ -1,4 +1,4 @@
-### Hi there 👋 im currently majoring statistic at University Indonesia and highly passionate about Data Science, Machine Learning, Business Intelligence, etc. This account will contain about all the projects that i have been working on it. feel free to contact me if you want to collaborate for a project ! 
+### Hi there 👋 im currently majoring statistics at University Indonesia and highly passionate about Data Science, Machine Learning, Business Intelligence, etc. This account will contain about all the projects that i have been working on it. feel free to contact me if you want to collaborate for a project ! 
 
 <!--
 **Naufal Fachri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
